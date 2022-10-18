@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\Movie\Movie\bin\Debug\net6.0\Movie.exe
+C:\Users\mertg\source\repos\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+C:\Users\mertg\source\repos\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+C:\Users\mertg\source\repos\Movie\Movie\bin\Debug\net6.0\Movie.dll
+C:\Users\mertg\source\repos\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.dll
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+C:\Users\mertg\source\repos\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
