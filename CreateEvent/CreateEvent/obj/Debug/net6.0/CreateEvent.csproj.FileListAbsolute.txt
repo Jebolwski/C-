@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\bin\Debug\net6.0\CreateEvent.exe
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\bin\Debug\net6.0\CreateEvent.deps.json
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\bin\Debug\net6.0\CreateEvent.runtimeconfig.json
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\bin\Debug\net6.0\CreateEvent.dll
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\bin\Debug\net6.0\CreateEvent.pdb
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.AssemblyInfo.cs
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.dll
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\refint\CreateEvent.dll
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.pdb
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\CreateEvent.genruntimeconfig.cache
+C:\Users\mertg\source\repos\CreateEvent\CreateEvent\obj\Debug\net6.0\ref\CreateEvent.dll
