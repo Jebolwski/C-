@@ -24,7 +24,7 @@ namespace CreateEvent
                 String fighterName1 = Console.ReadLine();
                 Fighter fighter1 = new Fighter(fighterName1);
                 fighters.Add(fighter.fighterName+" vs "+fighter1.fighterName);
-                Console.WriteLine("Do you want to continue (yes,no)");
+                Console.Write("Do you want to continue (yes,no) : ");
                 String flagString = Console.ReadLine().ToLower();
                 if(flagString == "y" || flagString == "yes")
                 {
@@ -36,7 +36,7 @@ namespace CreateEvent
                 }
             }
             Event event1 = new Event(eventName,eventYear,fighters);
-
+            Console.WriteLine("----------Event Summary---------");
             Console.WriteLine("Event Name : "+event1.eventName);
             Console.WriteLine("Event Year : "+event1.eventYear);
             Console.WriteLine("----------Event Lineup---------");
