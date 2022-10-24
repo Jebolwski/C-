@@ -6,18 +6,20 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(myPow(3, 4));
+
+            Console.WriteLine(myPow(3, 5));
             Console.WriteLine(mySqrt(5)); 
-            Console.WriteLine(eulerNumber());
+            Console.WriteLine(getE(14));
         }
-        public static double myPow(double num1,int num2)
+        public static double myPow(double num1,double num2)
         {
-            double result=1;
-            for (int i = 1; i <= num2; i++)
-            {
-                result *=num1;
+            if (num2 == 0) {
+                return 1;
             }
-            return (int)(result * 100)/ 100.0;
+            else
+            {
+                return num1*myPow(num1, num2-1);
+            }
         }
 
         public static double mySqrt(double num1)
@@ -25,25 +27,31 @@ namespace Program
             return Math.Pow(num1,0.5);
         }
 
-        public static double eulerNumber()
+        public static double getE(double j)
         {
-            // euler number
-            double number = 0;
-            //numbers from 1 to 14
-            for(int i = 1; i < 14; i++)
+            double result;
+            if ((int)(j) <= 1)
             {
-                
-                double factorial = 1;
-                int num = i;
-                //calculating factorial
-                while (num>1)
-                {
-                    num--;
-                    factorial *=num;
-                }
-                number+=1/factorial;
+                return 1;
             }
-            return number;
+            else
+            {
+                result = 1/(factorial((int)(j) - 1));
+                return result+getE(j-1);
+            }
+            
+            
+        }
+        static double factorial(int i)
+        {
+            if (i == 0 || i == 1)
+            {
+                return 1;
+            }
+            else
+            {
+                return i * factorial(i - 1);
+            }
         }
     }
 }
