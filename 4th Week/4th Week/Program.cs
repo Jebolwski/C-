@@ -10,7 +10,7 @@ namespace Program
             Console.WriteLine(Foo(15,25));
             Console.WriteLine(isPrime(4));
             asalCarpanlar(1270);
-            Console.WriteLine("\n****************");
+            Console.WriteLine("\n-----------------");
             int n = 100;
             int i = 2;
             while (n != 1)
@@ -23,6 +23,12 @@ namespace Program
                 else
                     i++;
             }
+            Triangle(6);
+            Console.Write("Radius of circle : ");
+            int number = int.Parse(Console.ReadLine());
+            
+            
+            Console.WriteLine("Area of the circle : "+AreaCircle(5)+" Perimeter of the circle : "+PerimeterCircle(6));
         }
 
         public static int Foo(int a=10,int b=20,int c=30)
@@ -54,6 +60,29 @@ namespace Program
             }
         }
 
+
+        public static void Triangle(int j)
+        {
+            Console.WriteLine("\n");
+            for(int i = 0; i <= j; i++)
+            {
+                for (int k = i; k<j; k++)
+                {
+                    Console.Write(j);
+                }
+                Console.Write("\n");
+            }
+        }
+        
+        public static double AreaCircle(int i)
+        {
+            return 3.14*i*i;
+        }
+
+        public static double PerimeterCircle(int i)
+        {
+            return 2 * 3.14 * i;
+        }
 
     }
 }
