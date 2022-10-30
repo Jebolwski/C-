@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\bin\Debug\net6.0\ConnectToDatabase.exe
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\bin\Debug\net6.0\ConnectToDatabase.deps.json
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\bin\Debug\net6.0\ConnectToDatabase.runtimeconfig.json
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\bin\Debug\net6.0\ConnectToDatabase.dll
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\bin\Debug\net6.0\ConnectToDatabase.pdb
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.AssemblyInfo.cs
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.dll
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\refint\ConnectToDatabase.dll
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.pdb
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ConnectToDatabase.genruntimeconfig.cache
+C:\Users\mertg\source\repos\ConnectToDatabase\ConnectToDatabase\obj\Debug\net6.0\ref\ConnectToDatabase.dll
