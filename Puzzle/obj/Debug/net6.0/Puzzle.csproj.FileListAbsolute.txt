@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.AssemblyInfo.cs
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\Puzzle\Puzzle\bin\Debug\net6.0\Puzzle.exe
+C:\Users\mertg\source\repos\Puzzle\Puzzle\bin\Debug\net6.0\Puzzle.deps.json
+C:\Users\mertg\source\repos\Puzzle\Puzzle\bin\Debug\net6.0\Puzzle.runtimeconfig.json
+C:\Users\mertg\source\repos\Puzzle\Puzzle\bin\Debug\net6.0\Puzzle.dll
+C:\Users\mertg\source\repos\Puzzle\Puzzle\bin\Debug\net6.0\Puzzle.pdb
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.dll
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\refint\Puzzle.dll
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.pdb
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\Puzzle.genruntimeconfig.cache
+C:\Users\mertg\source\repos\Puzzle\Puzzle\obj\Debug\net6.0\ref\Puzzle.dll
