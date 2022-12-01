@@ -76,12 +76,57 @@ namespace Program
                 {
                     if(array[j]+1 != array[j + 1])
                     {
-                        Console.WriteLine("Olmaz {0}. satırda hata var.",i);
-                        return;
                     }
                 }
             }
 
+            Lotto lotto = new Lotto();
+            Console.WriteLine();
+            Lotto[] lottos = new Lotto[5];
+            for (int i = 0; i < 5; i++)
+            {
+                lottos[i] = new Lotto();
+                Console.WriteLine();
+            }
+        }
+
+        class Lotto
+        {
+            float[] lottonums = new float[10];
+            bool flag;
+
+            public Lotto()
+            {
+                for(int i = 0; i < 10; i++)
+                {
+                    lottonums[i] = 0;
+                }
+
+                for (int i = 0; i < 10; i++)
+                {
+                    Random a = new Random();
+                    float result = a.Next();
+                    do
+                    {
+                        result = a.Next(0,60);
+                        flag = false;
+                        result = a.Next(0,60);
+                        for (int j = 0; j < 10; j++)
+                            if (lottonums[i] == result)
+                            {
+                                flag = true;
+                                break;
+                            }
+                    } while (flag);
+                    lottonums[i] = result;
+                    
+                }
+                for (int i = 0; i < 10; i++)
+                {
+                    Console.Write(lottonums[i]+" ");
+                }
+            }
+            
         }
 
         struct Footballer
