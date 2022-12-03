@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\ExamSample\ExamSample\bin\Debug\net6.0\ExamSample.exe
+C:\Users\mertg\source\repos\ExamSample\ExamSample\bin\Debug\net6.0\ExamSample.deps.json
+C:\Users\mertg\source\repos\ExamSample\ExamSample\bin\Debug\net6.0\ExamSample.runtimeconfig.json
+C:\Users\mertg\source\repos\ExamSample\ExamSample\bin\Debug\net6.0\ExamSample.dll
+C:\Users\mertg\source\repos\ExamSample\ExamSample\bin\Debug\net6.0\ExamSample.pdb
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.AssemblyInfo.cs
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.dll
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\refint\ExamSample.dll
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.pdb
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ExamSample.genruntimeconfig.cache
+C:\Users\mertg\source\repos\ExamSample\ExamSample\obj\Debug\net6.0\ref\ExamSample.dll
