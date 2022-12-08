@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\bin\Debug\net6.0\PrepForExam2.exe
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\bin\Debug\net6.0\PrepForExam2.deps.json
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\bin\Debug\net6.0\PrepForExam2.runtimeconfig.json
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\bin\Debug\net6.0\PrepForExam2.dll
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\bin\Debug\net6.0\PrepForExam2.pdb
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.AssemblyInfo.cs
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.dll
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\refint\PrepForExam2.dll
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.pdb
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\PrepForExam2.genruntimeconfig.cache
+C:\Users\mertg\source\repos\PrepForExam2\PrepForExam2\obj\Debug\net6.0\ref\PrepForExam2.dll
