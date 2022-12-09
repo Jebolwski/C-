@@ -41,8 +41,6 @@ namespace Program
 
             string sentence = "ben {messiyim} sen penaldosun.";
 
-
-
             int firstIndex = sentence.IndexOf("{");
             int lastIndex = sentence.IndexOf("}");
 
@@ -60,9 +58,33 @@ namespace Program
 
             string begstring = sentence1.Substring(0,sentence1.IndexOf(word));
             string endstring = sentence1.Substring(sentence.IndexOf(word)+1);
+
             Console.WriteLine(begstring+" "+endstring);
 
+            Sample sample = new Sample();
+            Direction d=Direction.Up;
+            sample.GoToDirection(d);
+
+            char character;
+
+            character = Console.ReadKey(true).KeyChar;
+
+            Console.WriteLine(character+" ---------");
         }
+
+
+
+        public void GoToDirection(Direction d)
+        {
+            Console.WriteLine(d+"="+(int)d);
+        }
+    }
+
+    
+
+    enum Direction
+    {
+        Right=1,Up=5,Down,Left
     }
 
     class Date
