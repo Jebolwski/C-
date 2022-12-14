@@ -21,7 +21,20 @@ namespace Program
             boncuk.Name = "Boncuk";
             boncuk.Type = "Dog";
 
+            ToyShop AhmetinDukkani = new ToyShop();
+            Toy[] toys = new Toy[100];
+            Random rand = new Random();
+            for (int i = 0; i < toys.Length; i++)
+            {
+                toys[i]=new Toy(rand.Next(0,100)*10,"Toy "+i);
+            }
+            AhmetinDukkani.toys = toys;
+            AhmetinDukkani.name = "Ahmetin Dükkanı";
+            AhmetinDukkani.city = cities.Sivas;
             Console.WriteLine(siyah.Name+" "+siyah.Age+" "+siyah.Type);
+
+            AhmetinDukkani.ToString1();
+        
         }
     }
 
@@ -119,4 +132,55 @@ namespace Program
         }
     }
 
+
+    class ToyShop
+    {
+        
+        public string name;
+        public cities city;
+        //Aggregation
+        public Toy[] toys = new Toy[100];
+
+        public ToyShop(){}
+
+        public ToyShop(string name, cities city, Toy[] toys)
+        {
+            this.name = name;
+            this.city = city;
+            this.toys = toys;
+        }
+
+        public void ToString1()
+        {
+            Console.WriteLine("============== "+this.name +" ==============\n"+"Dükkanın bulunduğu şehir : "+this.city+"\n"+"==== Dükkandaki Oyuncaklar =====");
+            foreach (Toy item in this.toys)
+            {
+                Console.WriteLine(item.name+", "+item.price+ " tl");
+            }
+        }
+    }
+
+
+    enum cities
+    {
+        New_York,Istanbul,Bursa,North_Bergan,Colarado,Sivas
+    }
+
+    class Toy
+    {
+
+        public double price;
+        public string name;
+        private Func<int> next;
+        private string v;
+
+        public Toy(){}
+
+        public Toy(int price, string name)
+        {
+            this.price = price;
+            this.name = name;
+        }
+
+    }
 }
