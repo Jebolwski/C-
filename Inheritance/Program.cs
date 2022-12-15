@@ -34,7 +34,38 @@ namespace Program
             Console.WriteLine(siyah.Name+" "+siyah.Age+" "+siyah.Type);
 
             AhmetinDukkani.ToString1();
-        
+
+
+            Engineer ahmet = new Engineer(1400,"BTÜ","Ahmet",20);
+        }
+    }
+
+    class Engineer : Person
+    {
+        public int wage;
+        public string company;
+
+        public Engineer() : base(){}
+
+        public Engineer(int wage, string company,string name,int age) : base(name,age)
+        {
+            this.wage = wage;
+            this.company = company;
+        }
+    }
+
+    class Person
+    {
+
+        public string name;
+        public int age;
+
+        public Person() { }
+
+        public Person(string name, int age)
+        {
+            this.name = name;
+            this.age = age;
         }
     }
 
@@ -183,4 +214,33 @@ namespace Program
         }
 
     }
+
+    class Bullet
+    {
+        public string name;
+        public int count;
+        public Bullet(){}
+
+        public Bullet(string name, int count)
+        {
+            this.name = name;
+            this.count = count;
+        }
+    }
+
+    class Gun
+    {
+        public string name;
+        public int production_year;
+        public Bullet ammo;
+        public Gun(){}
+
+        public Gun(string name, int production_year,int count)
+        {
+            this.ammo = new Bullet("5.76", count);
+            this.name = name;
+            this.production_year = production_year;
+        }
+    }
+
 }
