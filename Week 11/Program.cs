@@ -29,6 +29,23 @@ namespace Program
 
             list.Add(e);
             list.Add(a);
+            list.Add("messi");
+            list.Add(a);
+            list.Add("messi");
+
+            Console.WriteLine("eleman sayisi : "+list.Count);
+            Console.WriteLine("kapasite : "+list.Capacity);
+
+            Taban tab;
+
+            Turemis tur = new Turemis();
+
+            tab = tur;
+
+            Type ture = typeof(Turemis);
+
+
+            Console.WriteLine(ture.BaseType.Name);
         }
     }
 
@@ -41,7 +58,7 @@ namespace Program
             Console.WriteLine("A default construtor...");
         }
 
-        public A(int x) 
+        public A(int x)
         {
             messi = x;
             Console.WriteLine("A(int x) constructor...");
@@ -59,5 +76,16 @@ namespace Program
             ronaldo = x;
             Console.WriteLine("B(int x) constructor...");
         }
+    }
+
+
+    class Taban
+    {
+        public int a;
+    }
+
+    class Turemis : Taban
+    {
+        public int b;
     }
 }
