@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections;
-using System.Xml.Linq;
 
 
 namespace Program
@@ -38,6 +37,8 @@ namespace Program
 
             Taban tab;
 
+            Taban tab1= new Taban();
+
             Turemis tur = new Turemis();
 
             tab = tur;
@@ -46,6 +47,21 @@ namespace Program
 
 
             Console.WriteLine(ture.BaseType.Name);
+
+            VideoGame mgs = new VideoGame(null,"Metal Gear Solid",2007,85);
+            Console.WriteLine(mgs.ToString());
+            Console.WriteLine("===============");
+            Foo(tab1);
+            Foo(tab);
+            Foo(tur);
+            Console.WriteLine("===============");
+
+        }
+        public static void Foo(object o)
+
+        {
+            Console.WriteLine(o.GetType().Name);
+
         }
     }
 
@@ -88,4 +104,47 @@ namespace Program
     {
         public int b;
     }
+
+
+    class Consolee
+    {
+        public string name { get; set; }
+        public int release_date { get; set; }
+
+        public Consolee() { }
+
+        public Consolee(string name, int release_date)
+        {
+            this.name = name;
+            this.release_date = release_date;
+        }
+    }
+
+    class VideoGame
+    {
+        Consolee[] consoles = new Consolee[5];
+
+        public VideoGame(Consolee[] consoles, string name, int release_date, int score)
+        {
+            this.consoles = consoles;
+            this.name = name;
+            this.release_date = release_date;
+            this.score = score;
+        }
+
+        public string name { get; set; }
+        public int release_date { get; set; }
+
+        public int score { get; set; }
+
+        public VideoGame() { }
+
+
+        public override string ToString()
+        {
+            return this.name + "-" + this.score + "-" + this.release_date;
+        }
+
+    }
+
 }
