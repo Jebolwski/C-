@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.exe
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.deps.json
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.runtimeconfig.json
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.dll
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\bin\Debug\net6.0\MyArrayList.pdb
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.AssemblyInfo.cs
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.dll
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\refint\MyArrayList.dll
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.pdb
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\MyArrayList.genruntimeconfig.cache
+C:\Users\mertg\source\repos\MyArrayList\MyArrayList\obj\Debug\net6.0\ref\MyArrayList.dll
