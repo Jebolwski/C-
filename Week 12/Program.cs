@@ -52,6 +52,27 @@ class Program
         tshape.GoTop();
         ZShape zshape = new ZShape();
         zshape.GoTop();
+        Math math = new Math(10,20);
+        Console.WriteLine(math.x);
+        Program pr = new Program();
+        pr.Sıkıldım();
+    }
+
+    public void Sıkıldım()
+    {
+        Console.Write("Ne kadar sıkıldın (10 üzerinden) : ");
+        int sikilma_puani = Convert.ToInt32(Console.ReadLine());
+        if (sikilma_puani> 10)
+        {
+            Console.WriteLine("Git ezel izle.");
+        }else if (5<sikilma_puani && sikilma_puani <= 10)
+        {
+            Console.WriteLine("Git oyun oyna.");
+        }
+        else
+        {
+            Console.WriteLine("Git ders yap.");
+        }
     }
 }
 
@@ -149,3 +170,29 @@ class ZShape : TShape
 }
 
 
+class Math
+{
+    public int x;
+    
+    public Math(int x,int y) : this(x)
+    {
+        Console.WriteLine("math(int x,int y) constructor");
+    }
+    
+    public Math(int x)
+    {
+        Console.WriteLine("math(int x) constructor");
+        this.x = x*x;
+    }
+
+    public int Add(int x, int y)
+    {
+
+        return x + y;
+    }
+
+    public int timesTwo(int x) {
+        x = x * x;
+        return x;
+    }
+}
