@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\Prep2\Prep2\bin\Debug\net6.0\Prep2.exe
+C:\Users\mertg\source\repos\Prep2\Prep2\bin\Debug\net6.0\Prep2.deps.json
+C:\Users\mertg\source\repos\Prep2\Prep2\bin\Debug\net6.0\Prep2.runtimeconfig.json
+C:\Users\mertg\source\repos\Prep2\Prep2\bin\Debug\net6.0\Prep2.dll
+C:\Users\mertg\source\repos\Prep2\Prep2\bin\Debug\net6.0\Prep2.pdb
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.AssemblyInfo.cs
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.dll
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\refint\Prep2.dll
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.pdb
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\Prep2.genruntimeconfig.cache
+C:\Users\mertg\source\repos\Prep2\Prep2\obj\Debug\net6.0\ref\Prep2.dll
